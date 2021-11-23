@@ -4,3 +4,5 @@ this is a repo for my github_basic skill training
 only for my training usage, **not a actual project**!!!
 ## waring!!!
 this is not an actual project!!
+
+> this is not an actual project!!
